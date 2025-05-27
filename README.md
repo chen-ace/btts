@@ -48,7 +48,7 @@ $ ./btts -i /path/to/input -o /path/to/output -r 10
 ```
 
 ## 参考信息
-- [发言人取值参考](https://help.aliyun.com/document_detail/155645.html?spm=a2c4g.11186623.6.540.6)
+- [发言人取值参考](https://help.aliyun.com/zh/isi/developer-reference/overview-of-speech-synthesis?spm=a2c4g.11186623.help-menu-30413.d_3_1_0_0.5a9e7a174FoBU1#5186fe1abb7ag)
 - 音量，取值范围：0～100。默认值：50。
 - 语速，取值范围：-500～500，默认值：0。 [-500, 0, 500] 对应的语速倍速区间为 [0.5, 1.0, 2.0]。1倍速是指模型默认输出的合成语速，语速会依据每一个发音人略有不同，大概每秒钟4个字左右。
 
